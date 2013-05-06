@@ -5,8 +5,7 @@
      
      
 #include <SDL.h>
-#include <gl/gl.h>
-#include <gl/glu.h>
+#include <SDL_opengl.h>
 
 
 void jSquare( int );      /* Guarenteed size, +/- 1 offset error for odd */

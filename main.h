@@ -5,13 +5,11 @@
 //
 
 #include <SDL.h>                          /* Display/Input Library       */
+#include <SDL_opengl.h>                   /* OpenGL Cross Platform       */
 
 #include <IL/il.h>                        /* DevIL Image Lib w/openGL    */
 #include <IL/ilu.h>
 #include <IL/ilut.h>
-
-#include <gl/gl.h>                        /* OpenGL Header               */
-#include <gl/glu.h>                       /* OpenGL Utility Shapes etc.  */
 
 #include <AntTweakBar.h>                  /* Ant GUI for Var changing    */
 
