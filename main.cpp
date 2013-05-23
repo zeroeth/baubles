@@ -60,7 +60,7 @@ int main(int argc, char *argv[]){
   SDL_GL_SetAttribute( SDL_GL_DOUBLEBUFFER, 1 );
 
   if(true) {
-    screen = SDL_SetVideoMode( 0, 0, 0, SDL_OPENGL | SDL_FULLSCREEN | SDL_HWSURFACE );
+    screen = SDL_SetVideoMode( 0, 0, 0, SDL_OPENGL | SDL_HWSURFACE );
     height = screen->h;
     width  = screen->w;
   }
