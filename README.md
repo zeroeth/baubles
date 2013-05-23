@@ -9,6 +9,11 @@ This is an old fixed pipeline opengl app I'm slowly turning into modern opengl. 
 
 Initial idea for overlapping borders came from an old Flash art book which I coded in ActionScript [http://pixel-flow.deviantart.com/art/Stars-169501086](http://pixel-flow.deviantart.com/art/Stars-169501086)
 
+BUILD
+-----
+
+I made a small shell script for xcode/osx-gcc, just replace framework with pkg-configs for opengl and it should run fine.
+
 TODO
 ----
 * load/save colors in ant
