@@ -1,3 +1,5 @@
+![preview](https://raw.github.com/zeroeth/baubles/master/preview.png)
+
 baubles
 =======
 
