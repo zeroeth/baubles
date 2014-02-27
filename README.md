@@ -20,3 +20,4 @@ TODO
 ----
 * load/save colors in ant
 * grab colors from api xml/json like colourlovers/kuler in c/c++
+* make/cmake/scons (look at yquake/ioquake/quakespasm)
